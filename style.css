@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(6, 14, 44, 0.7),linear-gradientrgba(4,9,30,0.7)), url(images/edem-marina_NoticiaAmpliada.jpg);
+    background-position: center; 
+    background-size: cover; 
+    position: relative; 
+}
